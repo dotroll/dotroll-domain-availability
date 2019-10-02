@@ -4,8 +4,13 @@ This repo is a possible concept for domain availability.
 
 ### Minimum Requirements
 
-- jQuery in the client-side template
 - PHP 7.0 (Tested version PHP 7.2 and PHP 7.3)
+- PHP IDN Functions
+
+### Used libraries in this concept (Web interface):
+
+- jQuery 3.x
+- Bootstrap 3.x
 
 ## Associated repositories
 
