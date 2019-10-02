@@ -1,0 +1,1272 @@
+[
+	{
+        "extensions": ".co.hu,.2000.hu,.erotika.hu,.jogasz.hu,.sex.hu,.video.hu,.info.hu,.agrar.hu,.film.hu,.konyvelo.hu,.shop.hu,.org.hu,.bolt.hu,.forum.hu,.lakas.hu,.suli.hu,.priv.hu,.casino.hu,.games.hu,.media.hu,.szex.hu,.sport.hu,.city.hu,.hotel.hu,.news.hu,.tozsde.hu,.tm.hu,.erotica.hu,.ingatlan.hu,.reklam.hu,.utazas.hu",
+        "uri": "socket://whois.nic.hu",
+        "available": "No match"
+    },
+	{
+		"extensions": ".extra.hu",
+		"uri": "socket://whois.nic.hu",
+		"available": "No match"
+	},
+	{
+		"extensions": ".com.ua,.lviv.ua,.dn.ua,.kh.ua,.lg.ua,.net.ua,.org.ua,.kiev.ua",
+		"uri": "socket://whois.com.ua",
+		"available": "No entries found"
+	},
+	{
+		"extensions": ".com,.net,.es,.com.es,.nom.es,.gob.es,.edu.es",
+		"uri": "socket://whois.verisign-grs.com",
+		"available": "No match for"
+	},
+	{
+		"extensions": ".hu.backorder",
+		"uri": "socket://whois.nic.hu",
+		"available": "No match"
+	},
+	{
+		"extensions": ".accountants",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".actor",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".apartments",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".auction",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".audio",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".auto",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".band",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".bar",
+		"uri": "socket://whois.nic.bar",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".beer",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".best",
+		"uri": "socket://whois.nic.best",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".bet",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".bid",
+		"uri": "socket://whois.nic.bid",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".bingo",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".bio",
+		"uri": "socket://whois.ksregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".black",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".blackfriday",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".business",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".cafe",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".capital",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".car",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".cards",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".care",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".career",
+		"uri": "socket://whois.nic.career",
+		"available": "No match for"
+	},
+	{
+		"extensions": ".cars",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".cash",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".catering",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".ceo",
+		"uri": "socket://whois.nic.ceo",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".chat",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".christmas",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".church",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".city",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".claims",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".cleaning",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".click",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".clinic",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".cloud",
+		"uri": "socket://whois.nic.cloud",
+		"available": "No Data Found"
+	},
+	{
+		"extensions": ".coach",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".college",
+		"uri": "socket://whois.nic.college",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".community",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".condos",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".cooking",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".country",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".coupons",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".courses",
+		"uri": "socket://whois.aridnrs.net.au",
+		"available": "No Data Found"
+	},
+	{
+		"extensions": ".credit",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".creditcard",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".cricket",
+		"uri": "socket://whois.nic.cricket",
+		"available": "object does not exist"
+	},
+	{
+		"extensions": ".cruises",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".dance",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".date",
+		"uri": "socket://whois.nic.date",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".dating",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".deals",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".degree",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".delivery",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".democrat",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".dental",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".dentist",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".desi",
+		"uri": "socket://whois.ksregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".design",
+		"uri": "socket://whois.nic.design",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".diamonds",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".diet",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".digital",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".direct",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".discount",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".dog",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".domains",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".download",
+		"uri": "socket://whois.nic.download",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".earth",
+		"uri": "socket://whois.nic.earth",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".energy",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".engineer",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".engineering",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".events",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".exchange",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".express",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".fail",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".faith",
+		"uri": "socket://whois.nic.faith",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".family",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".fans",
+		"uri": "socket://whois.nic.fans",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".farm",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".fashion",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".film",
+		"uri": "socket://whois.nic.film",
+		"available": "No Data Found"
+	},
+	{
+		"extensions": ".finance",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".financial",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".fish",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".fishing",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".fit",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".fitness",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".flowers",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".football",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".forsale",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".foundation",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".fund",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".furniture",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".fyi",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".game",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".garden",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".gent",
+		"uri": "socket://whois.nic.gent",
+		"available": "No match for domain"
+	},
+	{
+		"extensions": ".gifts",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".gives",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".global",
+		"uri": "socket://whois.nic.global",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".gold",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".golf",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".gratis",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".green",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".gripe",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".group",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".guide",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".haus",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".healthcare",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".help",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".hiphop",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".hiv",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".hn",
+		"uri": "socket://whois.nic.hn",
+		"available": "No Object Found"
+	},
+	{
+		"extensions": ".hockey",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".horse",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".host",
+		"uri": "socket://whois.nic.host",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".hosting",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".how",
+		"uri": "socket://domain-registry-whois.l.google.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".immo",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".immobilien",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".industries",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".insure",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".investments",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".jewelry",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".kaufen",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".lease",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".legal",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".lgbt",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".life",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".limited",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".live",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".loan",
+		"uri": "socket://whois.nic.loan",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".loans",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".lol",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".love",
+		"uri": "socket://whois.nic.love",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".ltd",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".memorial",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".men",
+		"uri": "socket://whois.nic.men",
+		"available": "No Data Found"
+	},
+	{
+		"extensions": ".moe",
+		"uri": "socket://whois.nic.moe",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".mom",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".money",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".mortgage",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".movie",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".nagoya",
+		"uri": "socket://whois.nic.nagoya",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".navy",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".network",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".news",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".one",
+		"uri": "socket://whois.nic.one",
+		"available": "No Data Found"
+	},
+	{
+		"extensions": ".online",
+		"uri": "socket://whois.centralnic.com",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".partners",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".parts",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".party",
+		"uri": "socket://whois.nic.party",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".pet",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".photo",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".pictures",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".pizza",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".place",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".plus",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".poker",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".porn",
+		"uri": "socket://whois.afilias-srs.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".press",
+		"uri": "socket://whois.nic.press",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".productions",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".promo",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".properties",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".property",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".protection",
+		"uri": "socket://whois.nic.protection",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".pub",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".qpon",
+		"uri": "socket://whois.nic.qpon",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".racing",
+		"uri": "socket://whois.nic.racing",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".red",
+		"uri": "socket://whois.afilias.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".rehab",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".reisen",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".rent",
+		"uri": "socket://whois.nic.rent",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".rentals",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".report",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".republican",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".rest",
+		"uri": "socket://whois.nic.rest",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".restaurant",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".review",
+		"uri": "socket://whois.nic.review",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".reviews",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".rip",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".rocks",
+		"uri": "socket://whois.unitedtld.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".rodeo",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".sale",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".salon",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".sarl",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".school",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".schule",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".science",
+		"uri": "socket://whois.nic.science",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".security",
+		"uri": "socket://whois.nic.security",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".services",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".sex",
+		"uri": "socket://whois.afilias-srs.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".show",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".site",
+		"uri": "socket://whois.centralnic.com",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".ski",
+		"uri": "socket://whois.ksregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".so",
+		"uri": "socket://whois.nic.so",
+		"available": "Not found:"
+	},
+	{
+		"extensions": ".soccer",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".software",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".soy",
+		"uri": "socket://domain-registry-whois.l.google.com",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".space",
+		"uri": "socket://whois.nic.space",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".store",
+		"uri": "socket://whois.nic.store",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".stream",
+		"uri": "socket://whois.nic.stream",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".studio",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".study",
+		"uri": "socket://whois.nic.study",
+		"available": "No Data Found"
+	},
+	{
+		"extensions": ".style",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".surf",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".surgery",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".tattoo",
+		"uri": "socket://whois.uniregistry.net",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".tax",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".taxi",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".team",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".tech",
+		"uri": "socket://whois.nic.tech",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".tennis",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".theater",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".theatre",
+		"uri": "socket://whois.nic.theatre",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".tickets",
+		"uri": "socket://whois.nic.tickets",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".tienda",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".tires",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".tirol",
+		"uri": "socket://whois.nic.tirol",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".tools",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".tours",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".town",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".toys",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".trade",
+		"uri": "socket://whois.nic.trade",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".tube",
+		"uri": "socket://whois.nic.tube",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".university",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".vacations",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".vegas",
+		"uri": "socket://whois.afilias-srs.net",
+		"available": "NOT FOUND"
+	},
+	{
+		"extensions": ".vet",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".video",
+		"uri": "socket://whois.rightside.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".villas",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".vip",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".vision",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".vlaanderen",
+		"uri": "socket://whois.nic.vlaanderen",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".vodka",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".voting",
+		"uri": "socket://whois.voting.tld-box.at",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".watch",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".webcam",
+		"uri": "socket://whois.nic.webcam",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".website",
+		"uri": "socket://whois.nic.website",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".wedding",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".whoswho",
+		"uri": "socket://whois.nic.whoswho",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".win",
+		"uri": "socket://whois.nic.win",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".wine",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".works",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".wtf",
+		"uri": "socket://whois.donuts.co",
+		"available": "Domain not found."
+	},
+	{
+		"extensions": ".xyz",
+		"uri": "socket://whois.nic.xyz",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".yoga",
+		"uri": "socket://whois-dub.mm-registry.com",
+		"available": "does not exist"
+	},
+	{
+		"extensions": ".shop",
+		"uri": "socket://whois.nic.shop",
+		"available": "DOMAIN NOT FOUND"
+	},
+	{
+		"extensions": ".co.no",
+		"uri": "socket://whois.co.no",
+		"available": "Status: AVAILABLE"
+	}
+]
