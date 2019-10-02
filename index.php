@@ -9,8 +9,8 @@
  * @package dotroll-domain-availability
  * @license https://www.gnu.org/licenses/gpl.txt GNU General Public License, version 3
  */
-\ini_set('error_reporting', \E_ALL);
-\error_reporting(\E_ALL);
+\ini_set('error_reporting', \E_ALL ^ \E_DEPRECATED);
+\error_reporting(\E_ALL ^ \E_DEPRECATED);
 \date_default_timezone_set('Europe/Budapest');
 \header('Content-Type: text/html; charset=utf-8');
 include_once 'Domain.php';
